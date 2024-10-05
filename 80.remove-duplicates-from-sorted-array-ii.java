@@ -31,4 +31,7 @@ class Solution {
         return nextIndex;
     }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 // @lc code=end
