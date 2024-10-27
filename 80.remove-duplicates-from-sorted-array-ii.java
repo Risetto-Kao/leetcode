@@ -5,6 +5,9 @@
  */
 
 // @lc code=start
+
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 class Solution {
     public int removeDuplicates(int[] nums) {
         int len = nums.length;
@@ -31,7 +34,5 @@ class Solution {
         return nextIndex;
     }
 }
-// Time Complexity: O(n)
-// Space Complexity: O(1)
 
 // @lc code=end
